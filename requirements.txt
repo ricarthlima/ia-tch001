@@ -1,0 +1,11 @@
+pandas
+kagglehub
+numpy
+seaborn
+scikit-learn
+scipy
+xgboost
+lightgbm
+ipywidgets
+IPython
+shap
